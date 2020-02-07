@@ -1,0 +1,11 @@
+body {
+	background: black ;
+}
+p {
+	color: silver;
+	background: red;
+	font-family: serif, "Time New Roman", Times;
+	font-size: 40px;
+	text-align: center;
+	text-shadow: 2px 2px black;
+ }
